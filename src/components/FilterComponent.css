@@ -1,0 +1,43 @@
+.filter {
+  /* background-color: transparent; */
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: auto;
+  padding: 0px;
+}
+
+.platformLogo {
+  max-height: 1em;
+  width: fit-content;
+  object-fit: contain;
+
+}
+
+.platformLogoB {
+  max-height: 1.4em;
+  width: fit-content;
+  object-fit: contain;
+}
+
+.filternav,
+button.filternav {
+  color: white;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 15px;
+  padding: 3px;
+}
+
+.filternav.active,
+button.filternav.active {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+}

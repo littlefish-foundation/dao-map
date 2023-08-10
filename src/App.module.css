@@ -1,0 +1,20 @@
+.selectedCategoryHeader {
+  text-align: center;
+  font-size: 1.5em;
+  padding-top: 20px;
+  color: #444;
+}
+
+.categoryHeader h2 {
+  color: #333;
+  font-size: 1.2rem;
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  color: #333;
+  cursor: pointer;
+}

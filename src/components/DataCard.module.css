@@ -1,0 +1,171 @@
+/* .container {
+  width: 100%;
+  max-width: 800px;
+  padding: 1.2rem;
+  margin: auto;
+  background: #fff;
+  border-radius: 10px;
+  opacity: 0.95;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+} */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  max-width: 800px;
+  padding: 1.2rem;
+  margin: auto;
+  background: #fff;
+  border-radius: 10px;
+  opacity: 0.95;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 1.5em;
+  margin-bottom: 1.25rem;
+  font-weight: 600;
+  color: #555;
+  text-align: center;
+}
+
+.description ul li::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  background-color: currentColor;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: -10px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.description p {
+  margin: 1rem 0;
+}
+
+.imageContainer {
+  width: 60%; /* Adjust size as needed */
+  margin: auto;
+  max-height: 30%;
+  position: relative;
+  overflow: hidden;
+  padding-top: 20%; /* Adjust size as needed */
+}
+
+.cardImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.statusAndPlatform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+  margin-bottom: 1em;
+}
+
+.status {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.platformLogo {
+  width: 100px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  border-bottom: 2px solid black;
+  object-fit: contain;
+}
+
+.iconLinks {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.iconLink {
+  color: #555;
+  transition: color 0.3s ease;
+}
+
+.iconLink:hover {
+  color: #1a0dab;
+}
+
+.statusMainnet {
+  color: green;
+}
+
+.statusTestnet {
+  color: orange;
+}
+
+.statusDevelopment {
+  color: red;
+}
+
+.shadowMainnet {
+  box-shadow: 0 2px 10px rgba(0, 128, 0, 0.2);
+}
+
+.shadowTestnet {
+  box-shadow: 0 2px 10px rgba(255, 165, 0, 0.2);
+}
+
+.shadowDevelopment {
+  box-shadow: 0 2px 10px rgba(255, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 1rem;
+    max-width: 300px;
+    width: max-content;
+  }
+
+  .title {
+    font-size: 1.25rem;
+  }
+
+  .imageContainer {
+    overflow: unset;
+  }
+
+  .description {
+    font-size: 0.875rem;
+  }
+  .otherLinks {
+    font-size: 0.7rem;
+  }
+
+  .link {
+    font-size: 0.7rem;
+  }
+}
+.otherLinks {
+  margin-bottom: 1.25rem;
+}
+
+.link {
+  font-size: 1em;
+  font-weight: 600;
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Governance",
+    "top-level": "dao-tools",
+    "description": "Governance is the backbone of any DAO. Decision-making, voting, and decision enforcement can be made on-chain by Governance DAO Tools. When setting up your DAO, you can choose the governance method you want. Governance DAO tools allow DAOs to set up a fully functional on-chain governance platform without writing code.\n\n **Advantages of Governance DAO Tools**\n\n- Easy and fast to set up.\n- Bring down the entry barrier for new DAOs.\n\n**Disadvantages of Governance DAO Tools**\n- Limited in terms of customization.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/dao-tools/governance",
+    "x": 32,
+    "y": 51
+  },
+  {
+    "name": "Smart Contract Development",
+    "top-level": "dao-tools",
+    "description": "DAOs are made possible by smart contracts. A DAO in control of its smart contracts can unlock all potential benefits of blockchain technology. There is no place for mistakes in Smart Contract development. **Smart contracts are immutable**, which means when deployed, you can not change a smart contract. This is one of the reasons why smart contracts are safe but it can also have serious consequences. An error in the code of a smart contract can cause loss of funds **permanently**. Since the smart contract can not be changed, the funds you lost can never be saved.\nSmart Contract Development tools aim to help developers deploy better smart contracts. Developers can choose a smart contract they need from the library or edit them according to their specific use cases.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/dao-tools/smart-contract-development",
+    "x": 64,
+    "y": 37
+  },
+  {
+    "name": "Token Creation",
+    "top-level": "dao-tools",
+    "description": "Most DAOs prefer using tokens to raise initial investments and in turn, they share their governance with their community. These tokens in addition to having value, are used in DAOs governance and have voting power on proposals. Some DAOs also give proposal power to people with more than a specific amount of tokens.\nThe tools in this category make it easy to create and distribute tokens for DAOs. The distribution of tokens can be done by airdrops which are distributing tokens created to a list of addresses provided by the DAO, or vending machine methods where members collect tokens from a dApp themselves.\nDAOs can also mint their tokens however they choose, for example, mint at once, mint when someone claims them, or mint gradually.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/dao-tools/token-creation-and-management",
+    "x": 54,
+    "y": 28
+  },
+  {
+    "name": "Treasury Management",
+    "top-level": "dao-tools",
+    "description": "Treasury Management and Payment Tools are to help a DAO manage its treasury and process its payments. \nOne of the popular tools for treasury management is **multi-signature wallets**. Multi-signature or multi-sig wallets resemble safes more than wallets. These wallets require more than one key in order to access assets in them like bank safes.\nA DAOs treasury controlled by a single person is centralized and requires trust. Multisig wallets offer decentralization of this power among certain members of the community and they also offer the ability to lock assets before or after a certain date.\nAnother type it Project Management Tools which track tasks done by members and process payments automatically according to tasks done by the community of a DAO.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/dao-tools/treasury-management-and-payments-tools",
+    "x": 36,
+    "y": 37
+  },
+  {
+    "name": "Membership",
+    "top-level": "dao-tools",
+    "description": "Membership and Reputation Tools allow individuals to show their skills on-chain and DAOs to find the right people. They also offer the ability to allow certain individuals with specific tokens or NFTs to access certain DAO resources which is called **Token Gating**.\nThe ability to control certain tokens or NFT holders granting access can be very beneficial for DAOs and prevent scam attacks.\nThe on-chain skill proof can be used like a **CV** for people to show their skills in a more trustworthy way.\nBeing able to show past works done in a trustworthy way like blockchain tokens and NFTs, has the potential to help and shorten the hiring processes for both individuals and organizations.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/dao-tools/membership-and-reputation",
+
+    "x": 44,
+    "y": 28
+  },
+  {
+    "name": "Developer",
+    "top-level": "remote-work-tools",
+    "description": "Online developer tools are integral for coders and software engineers to develop, test, debug, and deploy code effectively.\nThese tools range from Integrated Development Environments (IDEs) like Visual Studio Code that offer coding, debugging, and Git operations, to version control systems like GitHub for collaborative coding and code repository management. Stack Overflow is a trusted community platform for developers to learn, share, and improve their coding skills.\nThese tools collectively enhance the developer experience, driving efficiency and improving code quality in the software development lifecycle.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/dev-tools",
+    "x": 26,
+    "y": 24,
+    "color": "red"
+  },
+  {
+    "name": "Communication",
+    "top-level": "remote-work-tools",
+    "description": "Online communication tools have revolutionized the way we connect, collaborate, and conduct business in an increasingly digital world. \nFrom instant messaging to video conferencing, these tools offer various ways to communicate remotely. Zoom, for instance, is renowned for its video conferencing capabilities, making it ideal for virtual meetings and webinars. Discord, another example, allows parallel discussions, voice chats, and streaming.\nThese digital tools not only bridge geographical divides but also improve productivity, streamline workflow, and foster a connected and efficient work environment.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/communication-tools",
+    "x": 50,
+    "y": 15,
+    "color": "red"
+  },
+  {
+    "name": "Collaboration",
+    "top-level": "remote-work-tools",
+    "description": "Online collaboration tools have transformed the way teams work, enabling seamless communication and collaboration across geographical boundaries.\nThese tools facilitate file sharing, task management, real-time editing, and more. Miro, for instance, is a collaboration tool that allows a team of people to work on the same board. Swae, a project management tool, helps teams organize and track work progress.\nThese tools foster a culture of transparency, increase productivity, and accelerate decision-making in the digital workspace.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/collaboration-tools",
+    "x": 82,
+    "y": 34,
+    "color": "red"
+  },
+  {
+    "name": "Social Media",
+    "top-level": "remote-work-tools",
+    "description": "Social media management tools are essential for individuals and businesses looking to streamline their social media presence and effectively engage their audiences.\nThey provide a comprehensive suite to plan, create, and schedule posts across various platforms like Facebook, Twitter, Instagram, and LinkedIn from a single dashboard. These tools also support interaction tracking, performance analysis, and sometimes, even influencer marketing.\nBy integrating these tools, users can optimize their social media strategy, drive engagement, and save valuable time.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/social-media-tools",
+    "x": 18,
+    "y": 34,
+    "color": "red"
+  },
+  {
+    "name": "Content Generation",
+    "top-level": "remote-work-tools",
+    "description": "Content generation tools are very useful for any community. These tools can be written content and video content generation tools or no-code website creation tools. These tools have the potential to decrease content generation time significantly.\n**Wriging Tools** help people write high quality content in a shorter time. Most of these tools use **AI** technology.\n**Video and Voice Generation Tools** help making videos and voice overs easily. These tools also use **AI** technology.\n**Website Creation Tools** allow people with non-technical backgrounds to build functional websites.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/content-generation-tools",
+
+    "x": 62,
+    "y": 18,
+    "color": "red"
+  },
+  {
+    "name": "Publication",
+    "top-level": "remote-work-tools",
+    "description": "Publication tools are useful to publish the work done by the DAO online. Tools like newsletter tools, or documentation tools like Obsidian and Gitbook fall into this category.\nOrganizations often need to publish their written work online and setting up websites for this task can be a difficult and time-consuming task. Publication tools make it easy and effortless to set up publication platforms for organizations.\nWe have generated documents about some of the most popular publication tools available and created guides on how to use them.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/publication-tools",
+    "x": 74,
+    "y": 24,
+    "color": "red"
+  },
+  {
+    "name": "Miscellaneous",
+    "top-level": "remote-work-tools",
+    "description": "These are the online tools that don't fit any of other categories. These tools are mainly useful for research purposes.\nChatGPT, for example, is a very useful tool to do many things like writing articles, writing code or researching different topics.\nAnother example is AI Lawyer. This tool is an AI legal service. It can be used to reading legal documents, getting legal advice and more.\nIris AI is an AI research tool. It can be used to find the needed scientific papers and patents.\nAll these tools are designed to help remote working groups to conduct their work in shorter time and easily.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/remote-work-tools/miscellaneous",
+    "x": 38,
+    "y": 18,
+    "color": "red"
+  },
+  {
+    "name": "Cardano-defi",
+    "top-level": "cardano-ecosystem",
+    "description": "Decentralized Finance, or DeFi, is a revolutionary blockchain-based form of finance that eliminates traditional intermediaries like banks or brokers from financial transactions. Utilizing smart contracts on decentralized networks.\nFor instance, Liqwid, a Cardano-based DeFi protocol, allows users to earn interest by lending their crypto assets. DeFi offers financial services such as lending, borrowing, trading, investing, and insurance in a transparent and permissionless way. As DeFi applications are open-source, they offer high transparency and lower costs than traditional finance.\nDeFi is transforming the financial landscape, democratizing access to financial services globally.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/cardano-ecosystem/cardano-decentralized-finance-tools",
+    "x": 68,
+    "y": 51
+  },
+  {
+    "name": "Cardano-bridge",
+    "top-level": "cardano-ecosystem",
+    "description": "Cardano cross-chain bridges are cutting-edge technologies facilitating interoperability between the Cardano blockchain and other distinct blockchain networks.\nThese bridges allow seamless transfer of different cryptocurrencies and digital assets, bypassing the need for a third party. This promotes an interconnected blockchain ecosystem where value and information can flow freely, increasing liquidity and enabling broader participation. Cardano's bridges are underpinned by robust security and smart contract functionality, ensuring transactions are secure and verifiable. This technology brings us one step closer to a fully integrated blockchain universe, expanding the reach and utility of Cardano's decentralized applications.",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/cardano-ecosystem/cross-chain-solutions",
+    "x": 30,
+    "y": 65
+  },
+  {
+    "name": "Cardano Wallets",
+    "top-level": "cardano-ecosystem",
+    "description": "These are the most popular Cardano Light Wallets. ''",
+    "logo": "placeholder.png",
+    "gitbook": "https://tools.littlefish.foundation/littlefish-research/cardano-ecosystem/cardano-wallets",
+    "x": 70,
+    "y": 65
+  }
+]

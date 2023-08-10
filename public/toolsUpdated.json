@@ -1,0 +1,1188 @@
+[
+  {
+    "tool": "Agora",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Agora Protocol is a governance library for projects on the Cardano blockchain. It provides a one-size-fits-all solution for managing treasury, changing on-chain parameters, and facilitating proposal voting. Staking plays a crucial role in Agora, incentivizing users to hold cryptocurrency or tokens in specialized wallets, ensuring their stake in governing decisions and network security. The library offers modularity and flexibility, allowing arbitrary traits to be added, making proposals adaptable to changes. Voting occurs through stake pools and tallies, with transactions locking voters' stakes and contributing to the vote tally. The final vote outcome triggers specific actions encoded in the proposal. While on-chain governance has benefits like transparency, drawbacks include limited off-chain implementation and potential coercion. Agora addresses these challenges and aims to simplify on-chain organizational infrastructure, benefiting new and existing DAOs as well as other projects seeking tailored governing solutions.",
+    "category": ["Governance", "Smart Contract Development"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://liqwid.notion.site/Using-Agora-74ceb4a70d024992abd9ff07087013e6",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "https://github.com/Liqwid-Labs/agora",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Agora deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/agora-protocol"
+    }
+  },
+  {
+    "tool": "Clarity protocol",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "The Clarity Protocol is a library of smart contracts that help organizations create optimal structures and incentives to enable decentralized, transparent and fair economic growth",
+    "category": ["Governance"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://clarity.community",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/clarity_dao?s=21&t=JezDl-a0KNCzZ17UI188qg",
+      "github": "",
+      "whitepaper": "https://docsend.com/view/4p6ct4pgdxhnw637",
+      "discord": "https://discord.com/invite/SUWpTtsJaA"
+    },
+    "other-links": {
+      "Clarity protocol deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/clarity-protocol"
+    }
+  },
+  {
+    "tool": "Crystal",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Crystal is a tool that makes governance and voting easy and efficient for DAOs without technical knowledge.",
+    "category": ["Governance"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://clarity.community",
+      "web-app": "https://web3.crystal.vote",
+      "app": [""],
+      "twitter": "https://twitter.com/clarity_dao?s=21&t=JezDl-a0KNCzZ17UI188qg",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/SUWpTtsJaA"
+    },
+    "other-links": {
+      "Crystal deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/crystal"
+    }
+  },
+  {
+    "tool": "TosiDrop",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "TosiDrop is a token distribution platform on the Cardano and Ergo blockchains.",
+    "category": ["Token Creation"],
+    "platform": ["cardano", "ergo"],
+    "official-links": {
+      "website": "https://app.tosidrop.io/cardano/claim",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/TosiDrop",
+      "github": "https://github.com/TosiDrop",
+      "whitepaper": "",
+      "discord": "https://discord.gg/C32Mm3j4fG"
+    },
+    "other-links": {
+      "TosiDrop deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/tosidrop"
+    }
+  },
+  {
+    "tool": "Paideia",
+    "image": "placeholder.png",
+    "status": "Development",
+    "description": "Paideia is a DAO governance app, that make governance and voting easy for non technical communities.",
+    "category": ["Governance"],
+    "platform": ["cardano", "ergo"],
+    "official-links": {
+      "website": "https://www.paideia.im",
+      "web-app": "https://app.paideia.im",
+      "app": [""],
+      "twitter": "https://twitter.com/PaideiaDAO",
+      "github": "https://github.com/paideiadao/",
+      "whitepaper": "https://docs.paideia.im",
+      "discord": "https://discord.gg/J3KDrtCFEn"
+    },
+    "other-links": {
+      "Paideia deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/paideia"
+    }
+  },
+  {
+    "tool": "Summon Platform",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Summon Platform enables creation of a DAO, transparent governance and DeFi access without technical knowledge.",
+    "category": ["Governance"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://summonplatform.io",
+      "web-app": "https://app.summonplatform.io",
+      "app": [""],
+      "twitter": "https://twitter.com/SummonPlatform",
+      "github": "",
+      "whitepaper": "https://summonplatform.io/wp-content/uploads/2023/05/SUMMON-PLATFORM-WHITE-PAPER-5-20-23.pdf",
+      "discord": "https://discord.gg/xH2Ph8AXPD"
+    },
+    "other-links": {
+      "Summon Platform deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/summon-platform"
+    }
+  },
+  {
+    "tool": "Voteaire",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Voteaire allows everyone in the ecosystem to create a poll. All results are weighted. All proposals and votes are stored publicly on-chain.",
+    "category": ["Governance"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://voteaire.io",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/voteaire",
+      "github": "https://github.com/voteaire/voteaire-onchain-spec/",
+      "whitepaper": "",
+      "discord": "https://discord.gg/q6rZuMj9BM"
+    },
+    "other-links": {
+      "Voteaire deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/voteaire",
+      "Voteaire Medium": "https://medium.com/@voteaire"
+    }
+  },
+  {
+    "tool": "DripDropz",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "DripDropz is a platform that offers token dispensing services to projects of all sizes within the Cardano community",
+    "category": ["Token Creation"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://dripdropz.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/DripDropz_io",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/BfFCgQyhRU"
+    },
+    "other-links": {
+      "DripDropz deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/dripdropz",
+      "DripDropz Medium": "https://dripdropz.medium.com/"
+    }
+  },
+  {
+    "tool": "Round Table",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Round Table is a multisig wallet.",
+    "category": ["Treasury Management"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://roundtable.adaodapp.xyz/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/ADAOcommunity",
+      "github": "https://github.com/ADAOcommunity/round-table",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/BGuhdBXQFU"
+    },
+    "other-links": {
+      "Round Table deep dive": "https://tools.littlefish.foundation/littlefish-research/all-docs/dao-tools/cardano/round-table"
+    }
+  },
+  {
+    "tool": "Bro Clan",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Bro Clan is a multisig wallet.",
+    "category": ["Treasury Management"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://broclan.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/BroClanWallet",
+      "github": "https://github.com/leo42/BroClanWallet",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Bro Clan deep dive": "https://tools.littlefish.foundation/littlefish-research/all-docs/dao-tools/cardano/bro-clan"
+    }
+  },
+  {
+    "tool": "Vespr",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Vespr is a mobile wallet for Cardano",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://vespr.xyz/#/",
+      "web-app": "",
+      "app": [
+        "https://play.google.com/store/apps/details?id=art.nft_craze.gallery.main",
+        "https://apps.apple.com/app/id1565749376"
+      ],
+      "twitter": "https://twitter.com/vesprwallet",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://t.co/9I7K1CmETV"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Lace",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://www.lace.io/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk"
+      ],
+      "twitter": "https://twitter.com/lace_io",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/inputoutput"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "CardWallet",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano", "bitcoin", "ethereum"],
+    "official-links": {
+      "website": "https://cwallet.finance/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/cwallet/apnehcjmnengpnmccpaibjmhhoadaico",
+        "https://apps.apple.com/pt/app/cardwallet-ada-crypto-wallet/id1578905885?l=en",
+        "https://play.google.com/store/apps/details?id=fi.cardwallet.android"
+      ],
+      "twitter": "https://twitter.com/CWallet_fi",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Eternl",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://eternl.io/app/mainnet/welcome",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/eternlwallet",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/eternlwallet"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Flint Wallet",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://flint-wallet.com/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/flint/hnhobjmcibchnmglfbldbfabcgaknlkj?hl=en",
+        "https://apps.apple.com/app/dcspark-flint-wallet/id1619660885",
+        "https://play.google.com/store/apps/details?id=io.dcspark.flintwallet&hl=en&gl=US"
+      ],
+      "twitter": "https://twitter.com/FlintWallet/",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/dcspark"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "GameChanger",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://gamechanger.finance/",
+      "web-app": "https://wallet.gamechanger.finance/",
+      "app": [""],
+      "twitter": "https://twitter.com/GameChangerOk",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://dsc.gg/gamechanger"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "GeroWallet",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://gerowallet.io/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/gerowallet/bgpipimickeadkjlklgciifhnalhdjhe/overview"
+      ],
+      "twitter": "https://twitter.com/GeroWallet",
+      "github": "",
+      "whitepaper": "https://gerowallet.io/assets/downloads/Gero_LP.pdf",
+      "discord": "https://discord.gg/Wj4EyjNdNb"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Nami",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://namiwallet.io/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/nami/lpfcbjknijpeeillifnkikgncikgfhdo?hl"
+      ],
+      "twitter": "https://twitter.com/NamiWallet",
+      "github": "https://github.com/berry-pool/nami",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "NuFi",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://nu.fi/",
+      "web-app": "https://wallet.nu.fi/?_gl=1*1rcew4y*_ga*MTEwMjQxOTY0NS4xNjg2MzE0MjM0*_ga_E9EVSGKPK7*MTY4NjMxNDIzMy4xLjAuMTY4NjMxNDIzMy42MC4wLjA.",
+      "app": [
+        "https://chrome.google.com/webstore/detail/nufi/gpnihlnnodeiiaakbikldcihojploeca"
+      ],
+      "twitter": "https://twitter.com/nufi_official",
+      "github": "https://github.com/nufi-official/nufi/",
+      "whitepaper": "",
+      "discord": "https://discord.gg/NuFi"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "RayWallet",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://raywallet.io/",
+      "web-app": "https://app.raywallet.io/#/assets",
+      "app": [""],
+      "twitter": "https://twitter.com/RayWallet",
+      "github": "https://github.com/ray-network/",
+      "whitepaper": "https://raynetwork.io/whitepaper/",
+      "discord": "https://discord.gg/WhZmm46APN"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Typhon",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://typhonwallet.io/#/",
+      "web-app": "https://chrome.google.com/webstore/detail/typhon-wallet/kfdniefadaanbjodldohaedphafoffoh",
+      "app": [""],
+      "twitter": "https://twitter.com/TyphonWallet",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Yoroi",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Cardano light wallet.",
+    "category": ["Cardano Wallets"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "https://yoroi-wallet.com/#/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb",
+        "https://play.google.com/store/apps/details?id=com.emurgo&hl=en",
+        "https://apps.apple.com/us/app/emurgos-yoroi-cardano-wallet/id1447326389"
+      ],
+      "twitter": "https://twitter.com/YoroiWallet",
+      "github": "https://github.com/Emurgo/yoroi",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/AWEp2SG437"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Agora Pulse",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.agorapulse.com",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/agorapulse",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Agora Pulse review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/yoroi, https://emurgo.io/press-news/#blogs"
+    }
+  },
+  {
+    "tool": "AI Lawyer",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Miscellaneous"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://ailawyer.pro/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/ailawyerapp",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "AI Lawyer review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/legal-tools/ai-lawyer"
+    }
+  },
+  {
+    "tool": "Bubble",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Publication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://bubble.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/bubble",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Bubble review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/website-creation-tools/bubble"
+    }
+  },
+  {
+    "tool": "Buffer",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://buffer.com/",
+      "web-app": "",
+      "app": [
+        "https://apps.apple.com/app/apple-store/id490474324?pt=936146&ct=SiteFooter&mt=8",
+        "https://apps.apple.com/app/apple-store/id490474324?pt=936146&ct=SiteFooter&mt=8"
+      ],
+      "twitter": "https://twitter.com/buffer",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Buffer review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/social-media-tools/buffer"
+    }
+  },
+  {
+    "tool": "Buttondown",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://buttondown.email/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/buttondown",
+      "github": "https://github.com/buttondown-email",
+      "whitepaper": "",
+      "discord": "https://discord.gg/uJvQJhRzn4"
+    },
+    "other-links": {
+      "Buttondown review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/publication-tools/buttondown-email-newsletters"
+    }
+  },
+  {
+    "tool": "ChatGPT",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Miscellaneous"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://openai.com/",
+      "web-app": "https://chat.openai.com/",
+      "app": ["https://apps.apple.com/app/openai-chatgpt/id6448311069"],
+      "twitter": "https://twitter.com/OpenAI",
+      "github": "https://github.com/openai",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "ChatGPT review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/research-tools/generative-pre-trained-transformer-chatgpt"
+    }
+  },
+  {
+    "tool": "Copy.ai",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.copy.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://www.twitter.com/copy_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Copy.ai review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/writing-tools/copy.ai-ai-content-generator"
+    }
+  },
+  {
+    "tool": "Discord",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Communication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://discord.com/",
+      "web-app": "",
+      "app": ["https://discord.com/download"],
+      "twitter": "https://twitter.com/discord",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Bookmark Bot": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/bookmark-bot",
+      "Building Bridges Between Communities": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/building-bridges-between-communities",
+      "Discord Notification Settings": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/discord-notification-settings",
+      "Discord Server Analytics": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/discord-server-analytics",
+      "Littlefish Discord Notifications": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/guide-littlefish-discord-notifications",
+      "Managing Discord Overwhelm": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/guide-managing-discord-overwhelm",
+      "Helper.gg": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/helper.gg-how-to",
+      "How to Use Combot": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/how-to-use-combot",
+      "How to Use Multi Server Chat": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/how-to-use-multi-server-chat",
+      "Improving Discord": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/improving-discord",
+      "Apollo Bot": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/recurring-events-on-discord-with-apollo-bot",
+      "Syncing Time Zone on Discord": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/syncing-time-zone-on-discord"
+    }
+  },
+  {
+    "tool": "Docusaurus",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Publication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://docusaurus.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/docusaurus",
+      "github": "https://github.com/facebook/docusaurus",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Docusaurus review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/publication-tools/docusaurus"
+    }
+  },
+  {
+    "tool": "Eclincher",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://eclincher.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/eclincher",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Eclincher review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/social-media-tools/eclincher"
+    }
+  },
+  {
+    "tool": "Fireflies.AI",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Communication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://fireflies.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/firefliesai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Fireflies.AI review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/documentation-tools/fireflies.ai"
+    }
+  },
+  {
+    "tool": "Fliki",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://fliki.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/fliki_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Fliki review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/media-tools/fliki"
+    }
+  },
+  {
+    "tool": "Git",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Developer"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://github.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/github?s=20",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Obsidian-Github Integration in Windows": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/publication-tools/obsidian-github-integration-in-windows",
+      "Install Git for Windows": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/project-management-tools/install-git-for-windows"
+    }
+  },
+  {
+    "tool": "Hootsuite",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.hootsuite.com/",
+      "web-app": "",
+      "app": [
+        "https://bnc.lt/79wh/x8ANDNlTE0",
+        "https://bnc.lt/79wh/NERDTRNTE0"
+      ],
+      "twitter": "https://twitter.com/hootsuite",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Hootsuite review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/social-media-tools/hootsuite-social-media-management-tool"
+    }
+  },
+  {
+    "tool": "Iris.ai",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Miscellaneous"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://iris.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "http://twitter.com/theirisai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Iris.ai review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/research-tools/iris.ai"
+    }
+  },
+  {
+    "tool": "Jasper AI",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.jasper.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/heyjasperai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Jasper AI review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/writing-tools/jasper-ai"
+    }
+  },
+  {
+    "tool": "Lettucemeet",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Communication", "Collaboration"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://lettucemeet.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Lettucemeet review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/how-to-use-lettucemeet"
+    }
+  },
+  {
+    "tool": "Miro",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Collaboration"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://miro.com/",
+      "web-app": "",
+      "app": [
+        "https://apps.apple.com/us/app/miro-collaborative-whiteboard/id1180074773?from=footer_menu&source=miro_website",
+        "https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website"
+      ],
+      "twitter": "https://twitter.com/mirohq",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Miro Tips and Tricks": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/miro-tips-and-tricks",
+      "Manage Miro Boards": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/manage-miro-boards",
+      "Basics of Miro": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/basics-of-miro"
+    }
+  },
+  {
+    "tool": "Murf.ai",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://murf.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/intent/follow?screen_name=MURFAISTUDIO",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Murf.ai review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/media-tools/murf.ai"
+    }
+  },
+  {
+    "tool": "Noty.AI",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Communication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://noty.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/noty_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Noty.AI review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/documentation-tools/noty.ai"
+    }
+  },
+  {
+    "tool": "Obsidian",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Publication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://obsidian.md/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/obsdmd",
+      "github": "https://github.com/obsidianmd",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Obsidian-Github Integration in Windows": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/publication-tools/obsidian-github-integration-in-windows"
+    }
+  },
+  {
+    "tool": "Otter.ai",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Communication"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://otter.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/otter_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Otter.ai review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/documentation-tools/otter.ai"
+    }
+  },
+  {
+    "tool": "Penelope AI",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://penelopeai.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/_PenelopeAI",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Penelope AI review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/writing-tools/penelope-ai"
+    }
+  },
+  {
+    "tool": "Sendible",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.sendxible.com/",
+      "web-app": "",
+      "app": [
+        "https://apps.apple.com/us/app/sendible-publish/id1498075396",
+        " https://play.google.com/store/apps/details?id=com.sendible.app"
+      ],
+      "twitter": "http://twitter.com/sendible",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Sendible review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/social-media-tools/sendible-social-media-management-made-easy"
+    }
+  },
+  {
+    "tool": "SocialPilot",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.socialpilot.co/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/socialpilot_co",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "SocialPilot review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/social-media-tools/socialpilot"
+    }
+  },
+  {
+    "tool": "Sproutsocial",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Social Media"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://sproutsocial.com/comprehensive/",
+      "web-app": "",
+      "app": [
+        "https://itunes.apple.com/app/apple-store/id475307859?pt=533273&ct=sprout_footer&mt=8",
+        "https://play.google.com/store/apps/details?id=com.sproutsocial.android&hl=en&utm_source=sprout_footer&utm_medium=website&utm_campaign=mobile_5"
+      ],
+      "twitter": "https://twitter.com/sproutsocial",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Sproutsocial review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/social-media-tools/sproutsocial-review"
+    }
+  },
+  {
+    "tool": "Steve AI",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://www.steve.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/steveaihq",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Steve AI review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/media-tools/steve-ai"
+    }
+  },
+  {
+    "tool": "WriteSonic",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Content Generation"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://writesonic.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/Writesonic",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "WriteSonic review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/writing-tools/writesonic"
+    }
+  },
+  {
+    "tool": "Zoom",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Collaboration"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://zoom.us/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/zoom",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Zoom review": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/zoom-best-practices"
+    }
+  },
+  {
+    "tool": "Ready to use Metaverses for Community Gatherings",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "",
+    "category": ["Collaboration"],
+    "platform": [""],
+    "official-links": {
+      "website": "",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Ready to use Metaverses for Community Gatherings": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/ready-to-use-metaverses-for-community-gatherings"
+    }
+  },
+  {
+    "tool": "Hazelnet",
+    "image": "placeholder.png",
+    "status": "Mainnet",
+    "description": "Hazelnet is a membership and repuation DAO tool that allow verification, member access with NFT or Token gating.",
+    "category": ["Membership"],
+    "platform": ["cardano"],
+    "official-links": {
+      "website": "",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {
+      "Hazelnet deep dive": "https://tools.littlefish.foundation/littlefish-research/all-docs/remote-work-tools/discord-hazelnet-bot"
+    }
+  },
+  {
+    "tool": "Indigo Protocol",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "Indigo Protocol is an autonomous synthetics protocol built on Cardano. They give their users the opportunity to be exposed to the price of real-world assets on the blockchain environment.",
+    "category": ["Cardano-defi"],
+    "platform": [""],
+    "official-links": {
+      "website": "",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "DJED",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "DJED is an algorithmic stablecoin protocol that behaves like an autonomous bank that buys and sells stablecoins for a price in a range that is pegged to a target price.",
+    "category": ["Cardano-defi"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://djed.xyz/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/DjedStablecoin",
+      "github": "",
+      "whitepaper": "https://eprint.iacr.org/2021/1069.pdf",
+      "discord": ""
+    },
+    "other-links": {
+      "COTI Medium": "https://cotinetwork.medium.com/"
+    }
+  },
+  {
+    "tool": "Liqwid",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "Liqwid is a decentralized and non-custodial liquidity protocol, built on Cardano\u2019s Plutus smart contract platform that provides an efficient and secure way for users to participate as lenders or borrowers.",
+    "category": ["Cardano-defi"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://liqwid.finance/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/liqwidfinance",
+      "github": "https://github.com/orgs/Liqwid-Labs/repositories",
+      "whitepaper": "https://drive.google.com/file/d/1-UDRdjcN8sWtsir0gwcb7KMTvQOFbtII/view?pli=1",
+      "discord": "https://discord.com/invite/vZzGHKGz29"
+    },
+    "other-links": {
+      "Liqwid Medium": "https://liqwid-finance.medium.com/"
+    }
+  },
+  {
+    "tool": "Milkomeda",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "Milkomeda, a smart contract-enabled sidechain protocol, connects platforms like Cardano and Algorand to EVM contracts.",
+    "category": ["Cardano-bridge"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://milkomeda.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/Milkomeda_com",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/dcSpark"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "COTI",
+    "image": "placeholder.png",
+    "status": "",
+    "description": "COTI (Currency of the Internet) provides fast, scalable, and secure payment solutions.",
+    "category": ["Cardano-defi"],
+    "platform": [""],
+    "official-links": {
+      "website": "https://coti.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/COTInetwork?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "github": "https://github.com/coti-io",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/wfAQfbc3Df"
+    },
+    "other-links": {
+      "COTI Medium": "https://cotinetwork.medium.com/"
+    }
+  }
+]

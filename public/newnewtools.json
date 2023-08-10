@@ -1,0 +1,1329 @@
+[
+  {
+    "tool": "Agora",
+    "image": "liqwid.png",
+    "description": "Agora protocol is a library of smart contracts developed by **Liqwid Labs** that aims to provide an easy and functional DAO governance. Agora library is created to be a one-size-fits-all governance library for projects on the Cardano blockchain.\n These smart contracts can be used to set up the platforms such as proposals and voting for DAOs. Unlike ready-to-use Governance tools, Agora is useful for developers\n\n. **These smart contracts allow:**\n\n- Treasury management.\n- Governance\n- Token Minting.",
+    "category": ["Governance", "Smart Contract Development"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://liqwid.notion.site/Using-Agora-74ceb4a70d024992abd9ff07087013e6",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "https://github.com/Liqwid-Labs/agora",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Agora deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/agora-protocol"
+    }
+  },
+  {
+    "tool": "Clarity protocol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FclarityProtocol.png?alt=media&token=b218e430-7e0a-483b-870c-b079315c332a",
+    "description": "Clarity protocol is a library of smart contracts that help organizations create optimal structures and incentives to enable decentralized, transparent and fair economic growth. Clarity Protocol is being built on top of the open-source **Agora Protocol**. Clarity Protocol consists of features that extend the base infrastructure of Agora to provide easy-to-use interface for non-technical organizations to interact with. Clarity Protocol addresses:\n\n* Governance\n* Treasury Management\n* Token Minting",
+    "category": ["Governance"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://clarity.community",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/clarity_dao?s=21&t=JezDl-a0KNCzZ17UI188qg",
+      "github": "",
+      "whitepaper": "https://docsend.com/view/4p6ct4pgdxhnw637",
+      "discord": "https://discord.com/invite/SUWpTtsJaA",
+      "medium": ""
+    },
+    "other-links": {
+      "Clarity protocol deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/clarity-protocol"
+    }
+  },
+  {
+    "tool": "Crystal",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fcrystal.png?alt=media&token=2e893ca7-3e9d-4376-9494-c9f5706f3a6d",
+    "description": "Crystal is a DAO Governance tool that allows communities to conduct **off-chain voting**. Governance parameters like deadlines, proposals and voting can be set up easily process on Crystal platform. Crystal uses on-chain data of token information for its off-chain voting.\n\nMost DAOs have **three steps** in their governance process:\n\n* Discussion\n* Off-chain vote\n* On-chain vote\n\nCrystal as an **off-chain** governance tool can be very useful for Cardano DAOs.",
+    "category": ["Governance"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://clarity.community",
+      "web-app": "https://web3.crystal.vote",
+      "app": [""],
+      "twitter": "https://twitter.com/clarity_dao?s=21&t=JezDl-a0KNCzZ17UI188qg",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/SUWpTtsJaA",
+      "medium": ""
+    },
+    "other-links": {
+      "Crystal deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/crystal"
+    }
+  },
+  {
+    "tool": "TosiDrop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FtosiDrop.png?alt=media&token=1cb3db26-cf0c-44d2-8912-104499ef0684",
+    "description": "Token distribution is an important task for DAOs. It can be a time consuming task to distribute to all members safely. TosiDrop is a token distribution platform developed for Cardano and Ergo blockchains. They offer a service for communities to distribute tokens to their members in a secure manner. They also have their own tokens called cTOSI and eTOSI. cTOSI runs on Cardano and eTOSI runs on Ergo. It supports  two methods of token distribution:\n\n* **Airdrop:** Distribution of tokens to a known list of users.\n* **Vending Machine:** Users claim tokens on a vending machine like platform.",
+    "category": ["Token Creation"],
+    "platform": {
+      "cardano": "Mainnet",
+      "ergo": "Testnet"
+    },
+    "official-links": {
+      "website": "https://app.tosidrop.io/cardano/claim",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/TosiDrop",
+      "github": "https://github.com/TosiDrop",
+      "whitepaper": "",
+      "discord": "https://discord.gg/C32Mm3j4fG",
+      "medium": ""
+    },
+    "other-links": {
+      "TosiDrop deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/tosidrop"
+    }
+  },
+  {
+    "tool": "Paideia",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fpaideia.png?alt=media&token=68f51a9e-09fb-4479-855a-7f3dd139b264",
+    "description": "Paideia is an open-source tool designed for DAO management. Paideia is live on **Ergo** blockchain and currently in development for **Cardano** blockchain. It is an almost all-in-one tool for a DAO. The features of Paideia are:\n\n* Governance and Voting\n* Token Creation and Distribution\n* Treasury Management\n* Tokenomics\n* Staking Pools\n* Reputation System",
+    "category": ["Governance"],
+    "platform": {
+      "cardano": "Development",
+      "ergo": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://www.paideia.im",
+      "web-app": "https://app.paideia.im",
+      "app": [""],
+      "twitter": "https://twitter.com/PaideiaDAO",
+      "github": "https://github.com/paideiadao/",
+      "whitepaper": "https://docs.paideia.im",
+      "discord": "https://discord.gg/J3KDrtCFEn",
+      "medium": ""
+    },
+    "other-links": {
+      "Paideia deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/paideia"
+    }
+  },
+  {
+    "tool": "Summon Platform",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fsummon.png?alt=media&token=8ddcc653-9ffe-4bc7-bcac-3ff7a91bc51a",
+    "description": "Summon Platform originates from the ADAO Community which is a Cardano DAO focused on open-source software development. Summon Platform aims to help Cardano communities on building their own on-chain DAOs. This service is particularly beneficial for communities that do not have experienced web3 developers, as it provides them with the necessary tools and resources to create and manage a DAO. Features of Summon Platform:\n\n* Token Generation and Staking\n* Proposal Management\n* Multi-sig wallet\n* Transaction Execution",
+    "category": ["Governance"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://summonplatform.io",
+      "web-app": "https://app.summonplatform.io",
+      "app": [""],
+      "twitter": "https://twitter.com/SummonPlatform",
+      "github": "",
+      "whitepaper": "https://summonplatform.io/wp-content/uploads/2023/05/SUMMON-PLATFORM-WHITE-PAPER-5-20-23.pdf",
+      "discord": "https://discord.gg/xH2Ph8AXPD",
+      "medium": ""
+    },
+    "other-links": {
+      "Summon Platform deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/summon-platform"
+    }
+  },
+  {
+    "tool": "Voteaire",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fvoteaire.png?alt=media&token=af2d8df9-44e8-4050-b3e4-9ebaacd25950",
+    "description": "Voteaire is a voting tool designed for the Cardano blockchain. It provides a democratic mechanism for decision-making, allowing users to cast votes based on different types of ballots. The tool leverages the properties of the Cardano blockchain to ensure transparency and fairness in the voting process.\n\n* **Three Types of Ballots:** SIMPLE, DELEGATED, and POLICYID.\n* **Weighted Voting:** Vote weight depends on ADA amount, delegation size, or governance tokens.\n* **Democratic Decision-Making:** Facilitates democratic processes within Cardano.",
+    "category": ["Governance"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://voteaire.io",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/voteaire",
+      "github": "https://github.com/voteaire/voteaire-onchain-spec/",
+      "whitepaper": "",
+      "discord": "https://discord.gg/q6rZuMj9BM",
+      "medium": "https://medium.com/@voteaire"
+    },
+    "other-links": {
+      "Voteaire deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/infrastructure-and-governance/voteaire"
+    }
+  },
+  {
+    "tool": "DripDropz",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FdripDropz.png?alt=media&token=ee162661-8547-4ded-a701-c646f6aa38a5",
+    "description": "DripDropz is an intuitive platform that offers token dispensing services to projects of all sizes within the Cardano community. The platform welcomes delegates to reap the rewards by providing the ability to withdraw a variety of tokens while remaining delegated to a community pool.\n\n* All delegates, irrespective of their pool, are entitled to receive a variety of tokens or a \"grab bag\".\n* DripDropz creates an opportunity for token projects to distribute their tokens without needing to run a pool.\n* DripDropz has the Coin Desirability Index (CDI), a measurement of a project's or token's desirability.",
+    "category": ["Token Creation"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://dripdropz.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/DripDropz_io",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/BfFCgQyhRU",
+      "medium": "https://dripdropz.medium.com/"
+    },
+    "other-links": {
+      "DripDropz deep dive": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/dao-tools/decentralized-finance/dripdropz"
+    }
+  },
+  {
+    "tool": "Round Table",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FroundTable.png?alt=media&token=903d3596-1b31-4832-9b8a-6d2261356076",
+    "description": "Round Table is an open-source wallet on Cardano blockchain. Unlike any other ordinary wallet on Cardano, Round Table aims at making multisig more accessible to its users. Multisig wallets can be one of the most essential tools for DAOs. DAOs can use multisig wallets to control their treasury without having to trust a single individual.\n\nUsers can customize multi-sig wallets signatory logic and timelocks.\n\n* Round Table has normal personal Cardano Wallet that can be set up with 24 word recovery phrase.\n* Round table has Multisig Cardano Wallet.",
+    "category": ["Treasury Management"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://roundtable.adaodapp.xyz/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/ADAOcommunity",
+      "github": "https://github.com/ADAOcommunity/round-table",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/BGuhdBXQFU",
+      "medium": ""
+    },
+    "other-links": {
+      "Round Table deep dive": "https://tools.littlefish.foundation/littlefish-research/all-docs/dao-tools/cardano/round-table"
+    }
+  },
+  {
+    "tool": "Bro Clan",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fbroclan.png?alt=media&token=a3dac3f1-0842-46c5-8be0-f5fda065ad0b",
+    "description": "Bro Clan is an open-source multisig wallet on Cardano Blockchain. A multisig wallet opens the possibility of keeping assets in a more secure and, most importantly, a true decentralized safe. A multisig wallet is more like a safe in a bank.\n\nThese **safes** are essential for DAOs because keeping DAO funds in a normal Cardano wallet would give a single individual power to control the treasury. Bro Clan wallet features are:\n\n* Timelock\n* Custom multisig policy\n* nested policy",
+    "category": ["Treasury Management"],
+    "platform": {
+      "cardano": "Testnet"
+    },
+    "official-links": {
+      "website": "https://broclan.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/BroClanWallet",
+      "github": "https://github.com/leo42/BroClanWallet",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Bro Clan deep dive": "https://tools.littlefish.foundation/littlefish-research/all-docs/dao-tools/cardano/bro-clan"
+    }
+  },
+  {
+    "tool": "Vespr",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fvespr.png?alt=media&token=0acde227-f7bc-4368-8c66-0fc57e9fa805",
+    "description": "Vespr is a Cardano Light Wallet. It can be used on iOS and Android. Its features are:\n\n* Multi Wallet Support.\n* dAPP Connection.\n* Displays USD value of assets.\n* NFT Display.\n* Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://vespr.xyz/#/",
+      "web-app": "",
+      "app": [
+        "https://play.google.com/store/apps/details?id=art.nft_craze.gallery.main",
+        "https://apps.apple.com/app/id1565749376"
+      ],
+      "twitter": "https://twitter.com/vesprwallet",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://t.co/9I7K1CmETV",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/vespr"
+    }
+  },
+  {
+    "tool": "Lace",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Flace.png?alt=media&token=581d3846-4d19-4896-a0da-5c2ab4ec6bf0",
+    "description": "Lace is a Cardano Light Wallet. It can be used on Chrome extension. Its features are:\n\n* Cold Wallet Support.\n* dAPP Connection.\n* Staking.\n* Open source.\n* Displays USD value of assets.\n* NFT Display.\n* Address book\n* Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://www.lace.io/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/lace/gafhhkghbfjjkeiendhlofajokpaflmk"
+      ],
+      "twitter": "https://twitter.com/lace_io",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/inputoutput",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/lace"
+    }
+  },
+  {
+    "tool": "Eternl",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Feternl.png?alt=media&token=ffad4049-e68f-4af9-a5ea-8a9435c1e46a",
+    "description": "Eternl is a Cardano light wallet. It can be used on iOS, Android, web and web extensions. Features of Eternl:\n\n* Multi Wallet Support.\n* Cold Wallet Support.\n* dAPP Connection on Chrome, Brave, Edge and Opera.\n* Staking.\n* Catalyst Voting.\n* Buying ADA with FIAT currencies.\n* NFT display.\n* Address book.\n* Displays USD value of assets.\n* Testnet support.",
+
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://eternl.io/app/mainnet/welcome",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/eternlwallet",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/eternlwallet",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/eternl"
+    }
+  },
+  {
+    "tool": "Flint Wallet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fflint.png?alt=media&token=cbaf7793-b578-4e41-9093-88fa89aaf864",
+    "description": "Flint is a Cardano Light Wallet. It can be used on iOS, Android, and browser extensions of Chrome and Brave. Its features are:\n- Multi Wallet Support.\n- Cold Wallet Support.\n- dAPP Connection.\n- Staking.\n- Catalyst Voting.\n- Buying ADA with FIAT currencies.\n- Open source.\n- Displays USD value of assets.\n- NFT Display.\n- Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://flint-wallet.com/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/flint/hnhobjmcibchnmglfbldbfabcgaknlkj?hl=en",
+        "https://apps.apple.com/app/dcspark-flint-wallet/id1619660885",
+        "https://play.google.com/store/apps/details?id=io.dcspark.flintwallet&hl=en&gl=US"
+      ],
+      "twitter": "https://twitter.com/FlintWallet/",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/dcspark",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/flint-wallet"
+    }
+  },
+  {
+    "tool": "GameChanger",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fgamechanger.png?alt=media&token=23b0377b-cd0d-4d8f-9292-321bba306b10",
+    "description": "Game Changer is a Cardano Light Wallet. It can be used on web. Its features are:\n- Multi Wallet Support.\n- dAPP Connection.\n- NFT Display.\n- Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://gamechanger.finance/",
+      "web-app": "https://wallet.gamechanger.finance/",
+      "app": [""],
+      "twitter": "https://twitter.com/GameChangerOk",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://dsc.gg/gamechanger",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/gamechanger"
+    }
+  },
+  {
+    "tool": "GeroWallet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fgerowallet.png?alt=media&token=f4a4221f-eb33-4918-a0d2-4cdae1b151dc",
+    "description": "Gero is a Cardano light wallet. It can be used on iOS, Android and Chrome based browser extensions. Its features are:\n- Multi Wallet Support.\n- Cold Wallet Support.\n- dAPP Connection.\n- Staking.\n- Buying ADA with FIAT currencies.\n- NFT display.\n- Displays USD value of assets.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://gerowallet.io/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/gerowallet/bgpipimickeadkjlklgciifhnalhdjhe/overview"
+      ],
+      "twitter": "https://twitter.com/GeroWallet",
+      "github": "",
+      "whitepaper": "https://gerowallet.io/assets/downloads/Gero_LP.pdf",
+      "discord": "https://discord.gg/Wj4EyjNdNb",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/gerowallet"
+    }
+  },
+  {
+    "tool": "Nami",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fnami.png?alt=media&token=f89e4c1c-a4b9-4e6d-abf5-52307b52cbd8",
+    "description": "Nami is a Cardano Light Wallet. It can be used on Chrome browser extension. Its features are:\n* Multi Wallet Support.\n* Cold Wallet Support.\n* dAPP Connection.\n* Staking.\n* Open source.\n* Displays USD value of assets.\n* NFT Display.\n* Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://namiwallet.io/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/nami/lpfcbjknijpeeillifnkikgncikgfhdo?hl"
+      ],
+      "twitter": "https://twitter.com/NamiWallet",
+      "github": "https://github.com/berry-pool/nami",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/nami"
+    }
+  },
+  {
+    "tool": "NuFi",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fnufi.png?alt=media&token=42e84acd-7266-4a3b-8b74-829c1142b608",
+    "description": "NuFi is a Cardano Light Wallet. It can be used on web and browser extension of Chrome. Its features are:\n* Multi Wallet Support.\n* Cold Wallet Support.\n* dAPP Connection.\n* Staking.\n* Cross-chain trade.\n* Displays USD value of assets.\n* NFT Display.\n* Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://nu.fi/",
+      "web-app": "https://wallet.nu.fi/?_gl=1*1rcew4y*_ga*MTEwMjQxOTY0NS4xNjg2MzE0MjM0*_ga_E9EVSGKPK7*MTY4NjMxNDIzMy4xLjAuMTY4NjMxNDIzMy42MC4wLjA.",
+      "app": [
+        "https://chrome.google.com/webstore/detail/nufi/gpnihlnnodeiiaakbikldcihojploeca"
+      ],
+      "twitter": "https://twitter.com/nufi_official",
+      "github": "https://github.com/nufi-official/nufi/",
+      "whitepaper": "",
+      "discord": "https://discord.gg/NuFi",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/nufi-wallet"
+    }
+  },
+  {
+    "tool": "RayWallet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fraywallet.png?alt=media&token=948f7b9a-2965-48ed-8f64-4160f7e7a7d7",
+    "description": "Ray is a Cardano Light Wallet. It can be used on macOS, Windoes, Linux, iOS and Android. Its features are:\n* Multi Wallet Support.\n* Cold Wallet Support.\n* dAPP Connection.\n* Staking.\n* Open source.\n* Displays USD value of assets.\n* Testnet support.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://raywallet.io/",
+      "web-app": "https://app.raywallet.io/#/assets",
+      "app": [""],
+      "twitter": "https://twitter.com/RayWallet",
+      "github": "https://github.com/ray-network/",
+      "whitepaper": "https://raynetwork.io/whitepaper/",
+      "discord": "https://discord.gg/WhZmm46APN",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/raywallet"
+    }
+  },
+  {
+    "tool": "Typhon",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Ftyphon.png?alt=media&token=2578f0c2-b121-4f67-8be0-6018aa7c02e0",
+    "description": "Typhon is a Cardano Light Wallet. It can be used on web, and Chrome based browser extensions. Its features are:\n* Multi Wallet Support.\n* Cold Wallet Support.\n* dAPP Connection.\n* Staking.\n* Catalyst Voting.\n* NFT display.\n* Address book.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://typhonwallet.io/#/",
+      "web-app": "https://chrome.google.com/webstore/detail/typhon-wallet/kfdniefadaanbjodldohaedphafoffoh",
+      "app": [""],
+      "twitter": "https://twitter.com/TyphonWallet",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/typhon"
+    }
+  },
+  {
+    "tool": "Yoroi",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fyoroi.png?alt=media&token=59ce3b42-3811-442b-91b4-bd074c5292e4",
+    "description": "Yoroi is a Cardano light wallet. It can be used on iOS, Android, Chrome, Edge and Firefox. Its features are:\n* Multi Wallet Support.\n* Cold Wallet Support.\n* dAPP Connection.\n* Staking.\n* Catalyst Voting.\n* Buying ADA with FIAT currencies.\n* Open-source.\n* Displays USD value of assets.\n* NFT display.",
+    "category": ["Cardano Wallets"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://yoroi-wallet.com/#/",
+      "web-app": "",
+      "app": [
+        "https://chrome.google.com/webstore/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb",
+        "https://play.google.com/store/apps/details?id=com.emurgo&hl=en",
+        "https://apps.apple.com/us/app/emurgos-yoroi-cardano-wallet/id1447326389"
+      ],
+      "twitter": "https://twitter.com/YoroiWallet",
+      "github": "https://github.com/Emurgo/yoroi",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/AWEp2SG437",
+      "medium": ""
+    },
+    "other-links": {
+      "Wallet Review done by Littlefish": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/cardano-wallets/yoroi, https://emurgo.io/press-news/#blogs"
+    }
+  },
+  {
+    "tool": "Agora Pulse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fagorapulse.png?alt=media&token=53a42795-7dd8-4996-b192-5f010dff6b2d",
+    "description": "AgoraPulse is one of the world's best social media management tools that is trusted by over 31,000 social media managers across the planet. So, if you're looking for the right social media management tool to use, consider using AgoraPulse. The tool is loaded with powerful features that'll make social media management easier.\nAgoraPulse is an easy to use social media management software that allows one to always stay organized. The tool uses users to save time, manage inbox, publishing, and reporting more conveniently. Users can users create actionable reports that show what's working, and what isn't . The software will give users an overview of how a post performed overtime, number of comments, and mentions in a clean manner.",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.agorapulse.com",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/agorapulse",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "AI Lawyer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FaiLawyer.png?alt=media&token=2ef349ce-2c61-4a39-89f5-10c3af51c0f2",
+    "description": "AI-Lawyer is a tool to provide legal services to ease up legal processing by document comparison, summarization, and legal document generation with the usage of AI technology. It is developed to almost completely surpass the need for an attorney.\nIt offers fast, easy, and accessible legal services for the digital world. Which may be utilized in a way that may benefit DAO projects before their execution. Inherently it does not adhere to business hours and it can be reached from all around the globe. Which makes it a perfect tool for DOAs to utilize its legal insight.\n**Important Note:** Users should not entirely rely on this tool on legal matters, consulting a legal expert is still the safest option.",
+    "category": ["Miscellaneous"],
+    "platform": {},
+    "official-links": {
+      "website": "https://ailawyer.pro/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/ailawyerapp",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Bubble",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fbubble.png?alt=media&token=1f1d61a2-a834-43f0-a535-f5ad2809dfe9",
+    "description": "Bubble is one of the most powerful no-code development platforms that allows users to program, design, host, and scale web applications.\nBubble is very simple to use. This tool is suitable for individuals with no prior experience in writing codes - that being said; Bubble allows you to create stunning web applications without writing a single line of code. Bubble has eliminated the need for coding background by providing a flexible editor for developers to create their web apps without any hurdles.\nThe applications developed by Bubble can be easily accessed via a computer web browser, tablet, or phone.",
+    "category": ["Publication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://bubble.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/bubble",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Buffer",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fbuffer.png?alt=media&token=74d4c5fe-2170-4be9-a3d2-d71b8f907e7b",
+    "description": "Buffer is an app that offers various features to help teams manage their social media accounts efficiently.\nOne of its key benefits is the ability to set permissions levels and approval flows, which allows teams to work autonomously without excessive oversight. Buffer also provides automated reports that showcase a team's work and saves time by publishing content for them. Additionally, Buffer suggests appropriate hashtags and channels for content distribution and helps determine the best time to publish posts for maximum impact. Buffer offers an AI Assistant feature that provides various content creation tools. With this feature, users can generate new content ideas, repurpose existing posts, and re-write drafts in different styles.",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://buffer.com/",
+      "web-app": "",
+      "app": [
+        "https://apps.apple.com/app/apple-store/id490474324?pt=936146&ct=SiteFooter&mt=8",
+        "https://apps.apple.com/app/apple-store/id490474324?pt=936146&ct=SiteFooter&mt=8"
+      ],
+      "twitter": "https://twitter.com/buffer",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Buttondown",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fbuttondown.png?alt=media&token=b6e1e4c5-3975-4b99-869a-6d43b7b9a45b",
+    "description": "Buttondown is a simple email newsletter service that allows the use of Markdown to create newsletters. Buttondown has free and paid plans. Some of Buttondown features are:\n* Transactional Emails\n* API support\n* Custom domain support\n* Embedding and sharing\n* Paid subscriptions\n* Engagement tracking",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://buttondown.email/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/buttondown",
+      "github": "https://github.com/buttondown-email",
+      "whitepaper": "",
+      "discord": "https://discord.gg/uJvQJhRzn4",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "ChatGPT",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FchatGPT.png?alt=media&token=3d2abe42-6e4d-4f0a-b7c9-b20f5e7b6600",
+    "description": "ChatGPT is a blockbuster tool developed by OpenAI. GPT debuted in November 2022, and it has been making waves ever since; the list of what ChatGPT does is almost endless. If used correctly, what you can do with chatGPT is endless. Here we have a guide to how to create effective prompts.\nWith correct prompts, you can summarize long articles, use it as a Linux Terminal, an interviewer, a travel guide and much more.\n**Important Note:** Be careful when using chatGPT since it is not created to give you correct information. Always validate the information you get from chatGPT with other sources.",
+    "category": ["Miscellaneous"],
+    "platform": {},
+    "official-links": {
+      "website": "https://openai.com/",
+      "web-app": "https://chat.openai.com/",
+      "app": ["https://apps.apple.com/app/openai-chatgpt/id6448311069"],
+      "twitter": "https://twitter.com/OpenAI",
+      "github": "https://github.com/openai",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Copy.ai",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fcopyai.png?alt=media&token=4ee3c039-2330-48ac-8718-161dd30e3d38",
+    "description": "We all know how much time it takes to develop content for websites, advertisements, social media posts, or blogs - sometimes, it can be very overwhelming. Copy.ai helps businesses and individuals to create stunning website copies, blogs, emails, sales descriptions, social media captions, and sales copy - just to name a few. Unlike other AI content generator out there, Copy.ai is very fast, and efficient; it carries operations within minutes.\nWith this powerful tool, you can easily generate Instagram hooks, emails, blogs, and Twitter threads that'll resonate with your followers. I'd recommend Copy.ai to anyone looking to get his jobs done quickly.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.copy.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://www.twitter.com/copy_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Discord",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fdiscord.png?alt=media&token=582e86b0-3bb3-4a66-9cb7-75736ae7d706",
+    "description": "Discord is a free, robust digital platform designed for creating communities. Launched in 2015, it provides voice, video, and text communication channels, making it a go-to app for online organizations. Users can join existing servers\u2014each dedicated to a specific topic\u2014or create their own. A server can have numerous text and voice channels, allowing focused discussions and interactions. Discord offers features like file sharing, streaming, bot integration, and custom emojis. Its user-friendly interface and customization options make it a preferred choice for many seeking real-time communication. It is available on various platforms, including Windows, macOS, Linux, iOS, Android, and web browsers.",
+    "category": ["Communication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://discord.com/",
+      "web-app": "",
+      "app": ["https://discord.com/download"],
+      "twitter": "https://twitter.com/discord",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Bookmark Bot": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/bookmark-bot",
+      "Building Bridges Between Communities": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/building-bridges-between-communities",
+      "Discord Notification Settings": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/discord-notification-settings",
+      "Discord Server Analytics": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/discord-server-analytics",
+      "Littlefish Discord Notifications": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/guide-littlefish-discord-notifications",
+      "Managing Discord Overwhelm": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/guide-managing-discord-overwhelm",
+      "Helper.gg": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/helper.gg-how-to",
+      "How to Use Combot": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/how-to-use-combot",
+      "How to Use Multi Server Chat": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/how-to-use-multi-server-chat",
+      "Improving Discord": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/improving-discord",
+      "Apollo Bot": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/recurring-events-on-discord-with-apollo-bot",
+      "Syncing Time Zone on Discord": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/syncing-time-zone-on-discord"
+    }
+  },
+  {
+    "tool": "Docusaurus",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fdocusaurus.png?alt=media&token=6424ef75-0fb0-4116-a1a7-db68ce3c28f6",
+    "description": "Docusaurus is a powerful tool for creating user-friendly documentation websites. It converts markdown files into a static website, allowing content creators to focus on quality writing without worrying about web development.\nIts clear interface enhances user experience, making information retrieval efficient, especially in large projects. While linking documents requires directory paths, this ensures stable, unbroken links, easing long-term maintenance. Docusaurus also supports versioning, allowing access to both current and previous documentation, ensuring historical accuracy. Docusaurus is a valuable tool for content creation and management, streamlining the process of creating and maintaining complex documentation websites.",
+    "category": ["Publication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://docusaurus.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/docusaurus",
+      "github": "https://github.com/facebook/docusaurus",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Eclincher",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Feclincher.png?alt=media&token=20cc35c0-d582-4a5e-a8e3-fb3e4fe1b899",
+    "description": "Eclincher is one of the most trusted social media management platforms in the world; it was designed for small and medium size businesses, agencies, franchises, enterprises. Eclincher can integrate with some of the world's most popular software programs such as Canva, Google Drive, Yelp, WordPress, Facebook, Dropbox, and much more. Some features of Eclincher\n* Posting schedules\n* Large image library\n* Local SEO",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://eclincher.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/eclincher",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Fireflies.AI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Ffireflies.png?alt=media&token=955a981b-26a5-48a6-97c9-4b7cc4ef4fd8",
+    "description": "Fireflies.ai is an AI-powered app that can transcribe meetings from various video-conferencing apps, dialers, and audio files. It works by inviting its Notetaker to your meetings, capturing both video and audio, and generating transcripts in minutes.\nThe app integrates with popular platforms like Google Meet, Zoom, Teams Webex, Ringcentral, Aircall, and more. Additionally, it allows users to analyze the transcripts, extract valuable insights, and create action items from the conversations.\nMost features are behind a paywall subscription. This gives very little room for users to test the app and understand the vast benefits it provides.",
+    "category": ["Communication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://fireflies.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/firefliesai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Fliki",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Ffliki.png?alt=media&token=08481b54-074c-497a-aeaa-b6bda7ce4b9d",
+    "description": "Fliki is a text-to-video generation tool. It can be very useful for social media content generation. The tool has lots of language support, a built-in ai image generator, a library of free images and videos, and it supports user input of images or videos. It is very easy to use the tool. It has a paid plan and a free trial. Some features of Fliki:\n* Multiple Voice actors of a variety of languages.\n* Large stock image and video library.\n* Uploading media support.\n* AI image generator.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://fliki.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/fliki_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Git",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FGit.png?alt=media&token=bc46ce74-d214-4cb9-b3ec-24f9d428547f",
+    "description": "Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It allows multiple people to work on the same codebase simultaneously, tracking and merging changes without overwriting each other's work.\nGit's key features include branching and merging, which facilitate experimentation without affecting the main codebase, and its distributed nature allows for offline work and redundancy. It also provides a detailed audit log of all changes. Widely adopted, Git is integral to collaborative coding and is the backbone of services like GitHub and GitLab.",
+    "category": ["Developer"],
+    "platform": {},
+    "official-links": {
+      "website": "https://github.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/github?s=20",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Obsidian-Github Integration in Windows": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/publication-tools/obsidian-github-integration-in-windows",
+      "Install Git for Windows": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/project-management-tools/install-git-for-windows"
+    }
+  },
+  {
+    "tool": "Hootsuite",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fhootsuite.png?alt=media&token=a3e8f74a-e23e-4269-9828-29985f49520a",
+    "description": "Hootsuite is an excellent and well-grounded social media management tool designed to assist global users in managing social media networks, viewing multiple streams in one interface, and monitoring what your potential customers are saying.\nIt also allows for the viewing of statistics, scheduling of messages, and posting updates to keep your followers engaged.\nSome features are:\n* Social media analytics\n* Social media scheduling\n* Social Listening of mentions and tags",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.hootsuite.com/",
+      "web-app": "",
+      "app": [
+        "https://bnc.lt/79wh/x8ANDNlTE0",
+        "https://bnc.lt/79wh/NERDTRNTE0"
+      ],
+      "twitter": "https://twitter.com/hootsuite",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Iris.ai",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FirisAi.png?alt=media&token=e79d2bdf-f52d-43a7-a05d-a8fbfd0062d2",
+    "description": "Iris.Ai is an ai app that utilizes neural network technology to help researchers process and extract insights from a large number of scientific papers and patents. It helps find and organize information, summarize key points, and even automate some tasks. Some features of Iris.ai are:\n* Content-based search\n* Context filtering\n* Data filtering\n* Data extraction\n* Machine-generated summaries\n* Monitoring",
+    "category": ["Miscellaneous"],
+    "platform": {},
+    "official-links": {
+      "website": "https://iris.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "http://twitter.com/theirisai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Jasper AI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FjasperAi.png?alt=media&token=7922f685-f15c-450e-bdf4-270b694b83dc",
+    "description": "Jasper AI is an ai copywriter and it writes content surprisingly well. It can be used to write social media content, articles, e-commerce description, and product features, e-mails, and even simplified text that aims to explain something to a child. Jasper can also improve already written content, get the key points from a provided text, and detect your tone from the text you have written. As can be seen, Jasper AI is an extremely versatile tool.\nJasper copywriter aims to shorten the process of writing and unblock writer\u2019s block. DAOs generate internal documents, write proposals and most importantly, DAOs need to use social media effectively. Jasper is designed to be of use for these tasks.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.jasper.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/heyjasperai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Lettucemeet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Flettucemeet.png?alt=media&token=16bcfd8f-35fc-445d-95ee-1a98c5e8e727",
+    "description": "Lettucemeet is a streamlined scheduling tool designed to simplify the process of arranging meetings. It eliminates the back-and-forth emails typically associated with finding a suitable time for all participants.\nUsers simply propose multiple time slots, invite participants via email, and allow them to vote on their preferred times. Lettucemeet then identifies the most popular slot, making scheduling a breeze.\nIt's perfect for coordinating business meetings, social gatherings, or any event requiring multiple attendees. The platform is user-friendly, requiring no sign-up for participants, and it integrates with popular calendars for seamless scheduling.",
+    "category": ["Communication", "Collaboration"],
+    "platform": {},
+    "official-links": {
+      "website": "https://lettucemeet.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Miro",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fmiro.png?alt=media&token=ea635196-5120-46e3-bea3-bdd43aadf8b0",
+    "description": "Miro is a collaborative online whiteboard platform designed to bring teams together, anytime, anywhere. It's a versatile tool that supports brainstorming sessions, agile workflows, design thinking, and more. Users can create, collaborate, and centralize communication for all their cross-functional team work. Miro offers a vast canvas where you can write, draw, use pre-made templates, or upload images and documents. It also integrates with many popular apps like Slack, Google Suite, and Jira, enhancing its functionality. With real-time collaboration features, teams can work together simultaneously, making it an ideal tool for remote teams and digital nomads. Miro is truly a one-stop solution for dynamic and effective team collaboration.",
+    "category": ["Collaboration"],
+    "platform": {},
+    "official-links": {
+      "website": "https://miro.com/",
+      "web-app": "",
+      "app": [
+        "https://apps.apple.com/us/app/miro-collaborative-whiteboard/id1180074773?from=footer_menu&source=miro_website",
+        "https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website"
+      ],
+      "twitter": "https://twitter.com/mirohq",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Miro Tips and Tricks": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/miro-tips-and-tricks",
+      "Manage Miro Boards": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/manage-miro-boards",
+      "Basics of Miro": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/basics-of-miro"
+    }
+  },
+  {
+    "tool": "Murf.ai",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FmurfAi.png?alt=media&token=9c94c7e7-3e87-4846-80ab-61516a3743f7",
+    "description": "Murf.ai is an innovative AI-powered platform that transforms text into realistic human speech.\nIt offers a library of unique voices in various languages and accents, allowing users to create high-quality voiceovers for their content. Whether you're producing videos, podcasts, or interactive voice responses, Murf.ai can enhance your projects with natural-sounding speech.\nThe platform's intuitive interface makes it easy to adjust speech parameters like speed, pitch, and pauses, ensuring the voiceover matches your specific needs. With its cloud-based architecture, Murf.ai provides a scalable solution for businesses and individuals alike, revolutionizing the way we create and consume audio content.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://murf.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/intent/follow?screen_name=MURFAISTUDIO",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Noty.AI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FnotyAi.png?alt=media&token=ad911943-a8c0-4212-9885-d16db9c727cf",
+    "description": "Noty.ai is a smart AI-based tool transforming the way online meetings are conducted.\nThis platform automatically transcribes and summarizes meeting conversations, saving precious time and enabling focus on decision-making. It's perfect for remote teams, offering transcription in various languages and capturing every detail. Noty.ai excels in extracting action items and highlights, ensuring nothing slips through the cracks post-meeting. Advanced search features allow easy retrieval of meeting insights.\nAdditionally, it integrates seamlessly with popular virtual meeting platforms. Productivity and efficiency of Remote Working Groups can be improved significantly with Noty.ai.",
+    "category": ["Communication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://noty.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/noty_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Obsidian",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fobsidian.png?alt=media&token=9f2153bc-5b68-427a-a788-89cccd5ec05e",
+    "description": "Obsidian is a powerful knowledge management and note-taking tool designed for markdown editing. It offers a unique linked-note system that visually displays how ideas interconnect, creating a personal knowledge network.\nWith Obsidian, you own your data. All files are stored locally in plain text, ensuring long-term accessibility. Its customizable interface supports plugins and themes for a personalized experience. It also features a robust search tool, allowing quick retrieval of information. Useful for researchers, writers, and anyone seeking to organize their thoughts or projects efficiently, Obsidian is a dynamic workspace to capture, connect, and expand your ideas.",
+    "category": ["Publication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://obsidian.md/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/obsdmd",
+      "github": "https://github.com/obsidianmd",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Obsidian-Github Integration in Windows": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/publication-tools/obsidian-github-integration-in-windows"
+    }
+  },
+  {
+    "tool": "Otter.ai",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FotterAi.png?alt=media&token=eff8fce5-8648-4965-89a4-8a6a9a5b23a4",
+    "description": "Otter.ai is a powerful AI-driven tool that transcribes and organizes your online meetings. It captures and generates accurate, searchable notes in real-time, allowing participants to focus on the discussion rather than note-taking.\nThe platform can identify speakers, highlight key points, and even extract summaries, making it easier to review and share meeting insights. Otter.ai also supports collaboration, enabling team members to annotate, edit, and comment on the transcriptions.\nWith its seamless integration with popular video conferencing platforms like Zoom and Google Meet, Otter.ai is an invaluable tool for remote working groups seeking to maximize productivity and engagement in their online interactions.",
+    "category": ["Communication"],
+    "platform": {},
+    "official-links": {
+      "website": "https://otter.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/otter_ai",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Penelope AI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FpenelopeAi.png?alt=media&token=1fa72bd1-a19f-4581-9447-64c478e1d94d",
+    "description": "This is a markdown editor that uses machine learning to make writing simply easy. With its clever AI technology, writing your thesis, blog posts, tweets or stories becomes fairly efficient and quick.\nIn principle, Penelope seeks to improve writing efficiency and intuitiveness by utilizing the capabilities of machine learning to understand and support the user in real-time. Some features of Penelope are:\n* You can choose the tone of the writing among a variety of options.\n* You can use Autocomplete to boost productivity.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://penelopeai.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/_PenelopeAI",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Sendible",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fsendible.png?alt=media&token=73af98c8-5fa4-4adc-98f4-76ed1c2a1817",
+    "description": "Sendible is your social media management tool that takes care of scheduling social media posts, monitoring of content, and reporting on social media platforms. The software was designed to help people grow their audience, attract new people, and reach their social media goals. Some of the features of Sendible:\n* Social media scheduling.\n* Multiple account management.\n* With Canva embedded in Sendible, users can create visual content.\n* Monitoring account engagement and interaction analytics.",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.sendible.com/",
+      "web-app": "",
+      "app": [
+        "https://apps.apple.com/us/app/sendible-publish/id1498075396",
+        " https://play.google.com/store/apps/details?id=com.sendible.app"
+      ],
+      "twitter": "http://twitter.com/sendible",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "SocialPilot",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FsocialPilot.png?alt=media&token=d6b42b1e-cdc6-4d51-8a6a-71f97f244e8a",
+    "description": "SocialPilot is a social media management tool. It aims to simplify social media management by automating content posting on one or more different social media platforms. It allows the management of multiple platforms, management of Ad Accounts for social media accounts, and a team can manage the same SocialPilot account. One of the best options is, sharing a post multiple times a day. This is important because you can hit the prime times of different markets easily.\n* SocialPilot supports most social media platfroms.\n* Analytics.\n* Bulk Scheduling.",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.socialpilot.co/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/socialpilot_co",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Sproutsocial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FsproutSocial.png?alt=media&token=4d9fd5e1-0afb-44f8-9daa-af37b94481d4",
+    "description": "Sprout Social can be an essential part of a social media managers toolbox. You can use it to manage and to be more responsive across multiple social media platforms. Additionally, the tool has features to organize multiple projects, campaigns, and teammates. Some important features of Sprout Social are:\n* Multiple account support\n* Monitoring Analytics.\n* Visual reports of post interactions.\n* Social listening of trens, mentions and tags.",
+    "category": ["Social Media"],
+    "platform": {},
+    "official-links": {
+      "website": "https://sproutsocial.com/comprehensive/",
+      "web-app": "",
+      "app": [
+        "https://itunes.apple.com/app/apple-store/id475307859?pt=533273&ct=sprout_footer&mt=8",
+        "https://play.google.com/store/apps/details?id=com.sproutsocial.android&hl=en&utm_source=sprout_footer&utm_medium=website&utm_campaign=mobile_5"
+      ],
+      "twitter": "https://twitter.com/sproutsocial",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Steve AI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FsteveAi.png?alt=media&token=ac043b3f-0f2a-4d78-b899-c3ffe4b33f7a",
+    "description": "Steve.ai is a groundbreaking web app that converts scripts to live videos. With its intuitive interface and powerful features, Steve.ai is your one-stop solution for generating high-quality video content that captivates your audience.\nAt the core of Steve.ai's success is its artificial intelligence (AI) technology. The app uses advanced machine learning algorithms and natural language processing to understand the nuances of your script and transform it into visually stunning and engaging live videos. With Steve.ai, creators no longer have to spend hours editing and piecing together clips to tell a story. The app takes care of everything, from analyzing your script and selecting the most appropriate visuals, to animating characters and synchronizing voiceovers.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://www.steve.ai/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/steveaihq",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "WriteSonic",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FwriteSonic.png?alt=media&token=7507e557-a2cf-41f5-91b5-722f82c42456",
+    "description": "WriteSonic is an AI platform for writing content. It has more than 65 features for different platforms and aims for users to create high quality content in a short time. It is built on generative AI models. This AI is trained to generate content like ads and blog posts. With this tool, a writer can generate content that follows a specific brand's writing style, industry-specific content, SEO-optimized content and long articles.\nWriteSonic seems like a very useful tool that can be used for very different contents from social media to article generation. DAOs can use WriteSonic for generating tweets, instagram posts and internal articles and reports. The verification of generated content's informations should be done.",
+    "category": ["Content Generation"],
+    "platform": {},
+    "official-links": {
+      "website": "https://writesonic.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/Writesonic",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Zoom",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fzoom.png?alt=media&token=4be09f6e-b8c0-4ddd-92dd-fb5cbf90dc15",
+    "description": "Zoom is a premier video communication tool offering high-quality video conferencing, webinars, and screen sharing.\nDesigned for businesses of all sizes, Zoom facilitates online meetings, training, and technical support, fostering collaboration regardless of geographical boundaries. With robust features like breakout rooms, virtual backgrounds, touch-up my appearance, and live subtitles, Zoom enriches the digital meeting experience.Integrated scheduling with Outlook and Google Calendar makes it user-friendly.\nIts robust security, including end-to-end encryption, assures safe communication. Whether for corporate meetings, virtual classrooms, or casual hangouts, Zoom connects you instantly, transforming how we work, learn, and socialize.",
+    "category": ["Collaboration"],
+    "platform": {},
+    "official-links": {
+      "website": "https://zoom.us/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/zoom",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Ready to use Metaverses for Community Gatherings",
+    "image": "metaverses.png",
+    "description": "Metaverse gathering places offer a unique opportunity for online organizations to foster community, collaboration, and engagement. By creating virtual spaces that mimic real-world environments, these platforms allow participants to interact in more immersive and intuitive ways than traditional online meeting tools. Users can explore the environment, engage in spontaneous conversations, and participate in group activities, much like they would in a physical setting. This can lead to stronger connections, improved communication, and a greater sense of community. Additionally, the metaverse can host large-scale events, training sessions, and collaborative projects, making it a versatile tool for organizations operating in the digital space.",
+    "category": ["Collaboration"],
+    "platform": {},
+    "official-links": {
+      "website": "",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {
+      "Ready to use Metaverses for Community Gatherings": "https://tools.littlefish.foundation/littlefish-research/dao-work-landing-page/tools-of-work/organizational-tools/ready-to-use-metaverses-for-community-gatherings"
+    }
+  },
+  {
+    "tool": "Hazelnet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FhazelNet.png?alt=media&token=466f2cb3-4a69-4d59-8608-7d26c6cbb74a",
+    "description": "Hazelnet bot allows users to integrate their Cardano wallet into discord. Thanks to this integration, communities can manage voting and staking operations via discord and categorize users with roles according to their transactions. Some features are:\n* Secure and private verification of addresses.\n* Scam Protection.\n* Adding official stake pools for Discord servers.\n* Creation and management of polls in Discord.\n* Token gating.",
+    "category": ["Membership"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Indigo Protocol",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2FindigoProtocol.png?alt=media&token=42ce0d15-a75e-4770-b1fc-1ce736ad6c3b",
+    "description": "Indigo Protocol is an autonomous synthetics protocol built on Cardano. They give their users the opportunity to be exposed to the price of real-world assets on the blockchain environment. These on-chain real-world assets are also known as synthetic assets.\nIndigo is an over-collateralized protocol, which means that the user must provide more capital than they are borrowing in order to take a loan. Synthetic Assets on Indigo Protocol are also known as **iAssets**. There are two ways you can obtain an iAsset in Indigo: by buying or by minting. Users can buy iAssets if the exchange has any available supply, if not than the second way need to be applied. When minting an asset is important to notice that the user needs to deposit collateral and create a loan.",
+    "category": ["Cardano-defi"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "",
+      "web-app": "",
+      "app": [""],
+      "twitter": "",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "DJED",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fdjed.png?alt=media&token=ffb47baa-a9cb-4aef-82af-4416890927e8",
+    "description": "**Djed** is a Cardano-based stablecoin, boasts an algorithmic design that promises stability through its use of smart contracts. It also has a reserve coin called **Shen**.\nThe digital asset is pegged to the US Dollar and offers an added layer of security through its reserve of base coins **Shen**, which are minted or burned based on market demand. With its innovative design, Djed aims to provide a reliable and steady store of value in the volatile world of cryptocurrencies.\nThe innovative stablecoin, Djed, has been brought to life through the collaboration of fintech firm COTI and Cardano's lead developer Input Output.",
+    "category": ["Cardano-defi"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://djed.xyz/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/DjedStablecoin",
+      "github": "",
+      "whitepaper": "https://eprint.iacr.org/2021/1069.pdf",
+      "discord": "",
+      "medium": "https://cotinetwork.medium.com/"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Liqwid",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fliqwid.png?alt=media&token=2eb1b99f-1c7c-42fa-9536-847bd5f27743",
+    "description": "Liqwid is a decentralized and non-custodial **liquidity protocol**, built on Cardano\u2019s Plutus smart contract platform that provides an efficient and secure way for users to participate as lenders or borrowers. The protocol is completely **open source**, and enables anyone to interact with a user interface client, a contract endpoint API or directly with the smart contracts on the Cardano blockchain.\nLiqwid allows users to supply and borrow cryptocurrencies on the Cardano blockchain. The platform offers an easy way for users to supply liquidity and earn interest, while also providing an efficient way for borrowers to access funds.",
+    "category": ["Cardano-defi"],
+    "platform": {
+      "cardano": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://liqwid.finance/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/liqwidfinance",
+      "github": "https://github.com/orgs/Liqwid-Labs/repositories",
+      "whitepaper": "https://drive.google.com/file/d/1-UDRdjcN8sWtsir0gwcb7KMTvQOFbtII/view?pli=1",
+      "discord": "https://discord.com/invite/vZzGHKGz29",
+      "medium": "https://liqwid-finance.medium.com/"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Milkomeda",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fmilkomeda.png?alt=media&token=0bebb040-79eb-4b0d-937d-afa13d26d8f1",
+    "description": "Milkomeda, a smart contract-enabled sidechain protocol, connects platforms like Cardano and Algorand to EVM contracts, facilitating staking rewards for all EVM users, including smart contract developers. Sebastien Guillemot, CEO of Milkomeda, states that staking rewards from Cardano products built on the Milkomeda platform are paid automatically every five days.\nThis feature enhances the utility of Cardano tokens for holders, as applications can be used exclusively with ADA instead of Ether (ETH), Ethereum\u2019s native token. This development is a significant step forward in expanding Cardano\u2019s usefulness and fostering greater collaboration and interoperability within the blockchain ecosystem.",
+    "category": ["Cardano-bridge"],
+    "platform": {
+      "cardano": "Mainnet",
+      "algorand": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://milkomeda.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/Milkomeda_com",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/dcSpark",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "COTI",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fcoti.png?alt=media&token=10a4f8b9-d044-4321-9c6a-03d44b77e167",
+    "description": "**COTI (Currency of the Internet)** is a revolutionary **Layer-1 DAG-Based Blockchain Ecosystem** that has been optimized for payments, with the aim of completely transforming the payment industry\nCOTI, despite being an independent blockchain ecosystem, has been designed with the capability to interact seamlessly with other blockchain networks. To this end, COTI has developed a **cross-chain bridge** solution that allows for the transfer of assets between COTI and other blockchains. The current implementation of this solution connects COTI with the Cardano blockchain, facilitating the exchange of assets between the two networks.",
+    "category": ["Cardano-defi", "Cardano-bridge"],
+    "platform": {
+      "cardano": "Mainnet",
+      "coti": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://coti.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/COTInetwork?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "github": "https://github.com/coti-io",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/wfAQfbc3Df",
+      "medium": "https://cotinetwork.medium.com/"
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Wonderverse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fwonderverse.png?alt=media&token=39954794-efd9-4051-b521-f2aa5dbe6fc1",
+    "description": "Wonderverse is one of the groundbreaking native DAO tool for Ethereum blockchain that combines a handful of critical pieces for managing any kind of participation in a DAO.\nWonderverse exists to build a community-led platform that'll nurture collaboration between organizations, and contributors.\nSome Wonderverse features are:\n* Users can build web3 resumes.\n* DAOs can manage projects on Wonderverse\n* DAOs can post jobs and tasks.\n* DAOs can process payments.",
+    "category": ["Governance", "Membership", "Treasury Management"],
+    "platform": {
+      "ethereum": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://www.wonderverse.xyz/",
+      "web-app": "https://app.wonderverse.xyz/",
+      "app": [""],
+      "twitter": "https://twitter.com/wonderverse_xyz",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/vAr4cN7UDY",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Swae",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fswae.png?alt=media&token=a2584b71-9c0b-48d7-bbf6-3cdad2869690",
+    "description": "Swae is a cutting-edge platform that offers an all-in-one decision making and governance tool, designed to empower the next generation of Web3 DAO (Decentralized Autonomous Organization) communities.\nSwae provides a user-friendly interface that streamlines the decision-making process, making it easier for DAOs to manage their operations and foster collaborative decision making among their members.\nSwae supports proposal creation with AI assistants. AI can provide feedback on the proposal including aspects such as sentiment, emotion, estimated reading time, and overall readability.",
+    "category": ["Collaboration"],
+    "platform": {},
+    "official-links": {
+      "website": "https://swae.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/Swae_io",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Coordinape",
+    "image": "coordinape.png",
+    "description": "Coordinape is an application that brings a solution by approaching the traditional action and reward system with a different approach.\nGenerally, the payment system in DAOs is controlled by an authorized persons. Those people distribute the determined payment amounts to their members on the basis of their contributions.\nCoordinape changes this traditional structure, allowing team members formed for a task to distribute the determined payments to each other.",
+    "category": ["Treasury Management", "Membership"],
+    "platform": {
+      "ethereum": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://coordinape.com/",
+      "web-app": "https://app.coordinape.com/",
+      "app": [""],
+      "twitter": "https://twitter.com/coordinape",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.coordinape.com/",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "SourceCred",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fsourcecred.png?alt=media&token=1c264f7d-a2a9-47df-89e0-902808ebb2f7",
+    "description": "Sourcecred is an organization that aims to make labour of individuals visible and rewardable with necessary nuance.\nThe technology is responsible for a non-transerable individual score called Cred and transferable token called grain. Work created is represented as a \u201cnode Graph\u201d, were more connections mean more value, parameters can determine what the community values more and therefore where the rewards flow. Based on that value Cred score is calculated and based on the Cred, Grain is rewarded. Cred measures the value of your contribution and can be corrected in time, grain is there to reward you for your current score and to allow for external parties to support your project.",
+    "category": ["Treasury Management", "Membership"],
+    "platform": {
+      "ethereum": "Testnet"
+    },
+    "official-links": {
+      "website": "https://sourcecred.io/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/sourcecred",
+      "github": "https://github.com/sourcecred",
+      "whitepaper": "",
+      "discord": "https://discord.com/invite/q9tDN7p",
+      "medium": ""
+    },
+    "other-links": {
+      "Discourse Forum": "https://discourse.sourcecred.io/"
+    }
+  },
+  {
+    "tool": "Charmverse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fcharmverse.png?alt=media&token=c15a3aa1-baf8-451f-bc4b-0de3a4c1b1b4",
+    "description": "Charmverse is a cloud-based DAO Tool that enables teams to collaborate on tasks and projects in real-time. The tool is designed to help teams stay organized, track progress, and improve productivity.\nCharmverse includes a **member directory** feature that allows users to easily search and sort through members of the community based on different criteria, such as role or activity level. The directory also includes role-based access, which ensures that sensitive information and permissions are only accessible to authorized users.\nCharmverse has the ability to create proposals. Users can create proposals for any aspect of the Space, and other users can comment on and vote for or against the proposal.",
+    "category": ["Membership", "Treasury Management", "Governance"],
+    "platform": {
+      "ethereum": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://www.charmverse.io/",
+      "web-app": "https://app.charmverse.io/",
+      "app": [""],
+      "twitter": "http://www.twitter.com/charmverse",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/VvhEafEWcg",
+      "medium": ""
+    },
+    "other-links": {}
+  },
+  {
+    "tool": "Kleoverse",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fkleoverse.png?alt=media&token=959ffb97-fa05-4afa-878c-1e3b17709bb8",
+    "description": "Kleoverse is a Web3 platform provider that helps individuals to find a source of meaningful work in the Web3 space.\nIt allows users to create a professional identity with on-chain verified skills, build a Web3 portfolio, and land their dream job. Additionally, Kleoverse has a DAO project management and resume-building tool that can be used to search for open projects and apply for them.\nThrough the platform, users can also track their progress and receive rewards as NFTs. At the moment of writing there are around 2100 listed organizations, 560 job offerings and 68000 listed contributors.",
+    "category": ["Membership", "Treasury Management"],
+    "platform": {
+      "ethereum": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://kleoverse.com/",
+      "web-app": "",
+      "app": [""],
+      "twitter": "https://twitter.com/kleoverse",
+      "github": "",
+      "whitepaper": "",
+      "discord": "https://discord.gg/u9v97PJVMA",
+      "medium": ""
+    },
+    "other-links": {
+      "Kleoverse Wiki": "https://wiki.kleoverse.com/"
+    }
+  },
+  {
+    "tool": "Clarity",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dao-tools-map.appspot.com/o/logos%2Fclarity.png?alt=media&token=99f93e99-179d-4e66-b2c8-c3b6faf30fac",
+    "description": "Clarity is the simplest workspace for remote teams. Easily plan projects, track tasks, and stay organized with a simple all-in-one workspace that automates tedious project management work of DAOs.\nClarity also supports token gating to control who can access certain parts of the projects. The platform currently supports Ethereum based Tokens and NFTs.\nClarity's focus seems to be on 'contributor community' and the sub-groups within the larger community. This would be equivalent to the working teams in typical DAO structures.",
+    "category": ["Treasury Management"],
+    "platform": {
+      "ethereum": "Mainnet"
+    },
+    "official-links": {
+      "website": "https://www.clarity.so/",
+      "web-app": "https://app.clarity.so/login",
+      "app": [""],
+      "twitter": "https://www.twitter.com/clarityteams",
+      "github": "",
+      "whitepaper": "",
+      "discord": "",
+      "medium": ""
+    },
+    "other-links": {}
+  }
+]

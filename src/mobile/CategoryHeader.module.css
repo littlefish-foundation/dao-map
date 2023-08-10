@@ -1,0 +1,29 @@
+.container {
+  cursor: pointer;
+  display: flex;
+  align-self: center;
+  top: 0;
+  width: 100%;
+  max-width: 800px;
+  padding-bottom: 5px;
+  margin: auto;
+  background: #fff;
+  /* border-radius: 10px; */
+  opacity: 0.95;
+  box-shadow: 0 2px rgba(0, 0, 0, 0.1);
+}
+
+.backArrow {
+  display: flex;
+  align-items: center;
+}
+
+.categoryName {
+  margin-left: 45px;
+  font-size: 1em;
+  font-weight: 600;
+  color: #555;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
